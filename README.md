@@ -1,1 +1,1 @@
-# datacquire
+This is the site for Dr. Charles Ellis's LS-PGA system for measuring the severity of psoriasis.
